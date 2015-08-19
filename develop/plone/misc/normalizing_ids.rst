@@ -93,6 +93,7 @@ folderish object that will contain our new object.::
 
 NameChoosing Adapter
 ++++++++++++++++++++
+
 MembersNormalizingNameChooser für container registrieren
 
 Other
