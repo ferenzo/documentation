@@ -91,6 +91,10 @@ folderish object that will contain our new object.::
     new_obj.setId(oid)
     new_obj.reindexObject()
 
+NameChoosing Adapter
+++++++++++++++++++++
+MembersNormalizingNameChooser für container registrieren
+
 Other
 -----
 
